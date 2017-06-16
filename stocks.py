@@ -99,4 +99,4 @@ def Main(args):
 #Main entry point for the program
 if __name__ == "__main__":
     #Main(sys.argv[1:])
-    p, n = Main(['yahoostock.csv', '2016-11-02', '2016-12-31', 'D'])
+    p, n = Main(['yahooData.csv', '2016-11-02', '2016-12-31', 'D'])
